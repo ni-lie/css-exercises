@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+p {
+    background-color: rgb(231, 182, 190);   
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.par.num-3 {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: rgb(46, 168, 46);
+    font-size: 24px;
+    font-weight: bold;
+}
